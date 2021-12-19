@@ -1,1 +1,1 @@
-Studing Git conflicts
+Learning about conflicts()
