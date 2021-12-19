@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Learning about conflicts
+=======
+Studing Git conflicts
+>>>>>>> master
